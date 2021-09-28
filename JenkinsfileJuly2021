@@ -12,7 +12,7 @@ node('wallmart-node'){
 
  stage('CheckOutCode')
  {
- git branch: 'development', credentialsId: '12993250-1ff3-40a0-9978-794e74dcf712', url: 'https://github.com/MithunTechnologiesDevOps/maven-web-application.git'
+ git credentialsId: '50e8197c-baa4-4f71-a0c7-69fa9864dd70', url: 'https://github.com/jaikay52/maven-web-application.git'
  }
  
  stage('Build')
