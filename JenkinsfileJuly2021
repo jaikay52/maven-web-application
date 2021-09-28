@@ -46,8 +46,7 @@ node('wallmart-node'){
    Mithun Technologies,
    
    9980923226''', subject: 'Build Over... !!', to: 'devopstrainingblr@gmail.com'
- */
- }
- 
- 
+*/
 }
+ 
+ 
